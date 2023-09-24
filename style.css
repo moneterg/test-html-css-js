@@ -2,8 +2,15 @@ body {
     font-family: Garamond, serif;
     text-align:center;
   }
-  
-  .container {
-    text-align: center;
-    padding: 20px;
+
+.bodyTag {
+      text-align: center;
+      font-size: 25px;
+      font-weight: bold;
   }
+
+.bodyText {
+    text-align: center;
+    font-size: 40px;
+    color: #8A2BE2;
+}
